@@ -5,7 +5,7 @@ Repository corso di autonomia teoria
 
 video sull'architettura trasformer RNN Reti neaurali ricorrrenti
 
-##### Video funzionamento LLM:  
+### Video funzionamento LLM:  
 GPT: Generative Pretrainerd Trasformer  
 Ogni neurone prede il suo valore di ingresso, moltiplica un altro fattore somma bias  
 primo layer imput da tutti i neuroni d'ingresso.  
@@ -16,7 +16,7 @@ Con questo tipo di sistema era diffice fare il training della retre
 Traning cercare il minimi locali  
 Sigmoide smooth per meccanismo + efficiente  
 
-##### Tipi di somma:  
+### Tipi di somma:  
 Lineari  
 Esponenziali  
 Derivate di fourier  
@@ -36,12 +36,14 @@ GEV modello AI che invece che generare testo ci da una predizione, un numero, ec
   - Sulla base dei dati che ho, la possibilità che un certo elemento si guasti.  
   - Dato un certo input quali elementi sono i quali categorie
 
-##### Video:  
+### Video:  
 Come funziona l'architetture transformer che permette l'AI generativa.  
 Differenza ai generativa vs ai generale.. ecc. -> (approfondimenti futuri che faremo in classe)
 
 
-##### Tokenizer
+
+
+### Tokenizer
 Come una rete neurale interpreta e genera un testo:  
 - Il pc nn ha nessuna coscienza di cosa sia un testo (numeri binari)  
 - Pc testo = codifica  
@@ -50,7 +52,8 @@ Come una rete neurale interpreta e genera un testo:
   - Meccanismo di associare dei blocchi di testo, scomporre questi blocchi di testo in tutte le parole  
   - Blocchi di testo = TOKEN  
   - Tokenizer: Prende le stringhe di testo e le scompone in token, ogni modello ha il suo tokenizer
-  - 
+
+
 
 
 
