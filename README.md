@@ -39,7 +39,7 @@ GEV modello AI che invece che generare testo ci da una predizione, un numero, ec
 ### Video:  
 Come funziona l'architetture transformer che permette l'AI generativa.  
 Differenza ai generativa vs ai generale.. ecc. -> (approfondimenti futuri che faremo in classe)
-
+Titolo: Transformers the tech behind LLMS
 
 
 
