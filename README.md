@@ -43,6 +43,8 @@ Differenza ai generativa vs ai generale.. ecc. -> (approfondimenti futuri che fa
 
 
 
+
+
 ### Tokenizer
 Come una rete neurale interpreta e genera un testo:  
 - Il pc nn ha nessuna coscienza di cosa sia un testo (numeri binari)  
@@ -52,7 +54,12 @@ Come una rete neurale interpreta e genera un testo:
   - Meccanismo di associare dei blocchi di testo, scomporre questi blocchi di testo in tutte le parole  
   - Blocchi di testo = TOKEN  
   - Tokenizer: Prende le stringhe di testo e le scompone in token, ogni modello ha il suo tokenizer
+ 
+Si crea il seme sulla base della nostra domanda...
 
+L'intelligenza artificiale generativa invece testo pixel -> immagine -> cambia il tipo di addestramento
+Generatore di testo -> diverso -> generatore di immagini
+Generatore di immagini -> simili -> generatore di testo -> intelligenza artificiale generativa
 
 
 
